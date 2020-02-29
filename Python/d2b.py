@@ -22,7 +22,6 @@ def d2b(inputDecimal,outputLength=1):
 	# get input
 	inDec=arg[0]
 
-
 	# get minimum output length
 	if inDec==0:
 		outLenMin=1
