@@ -1,3 +1,5 @@
+ASDF
+
 """Convert a binary list to a positive integer list. Works with more than one row input."""
 def b2d(inputBinary):
 	if isinstance(inputBinary[0], int): #1 dimension
