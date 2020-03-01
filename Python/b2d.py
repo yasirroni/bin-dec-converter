@@ -9,9 +9,9 @@ def b2d(inp):
 	return result
 
 def _b2d(inp):
-	result=[0]
+	result=0
 	inp=inp[::-1]
 	for col in range(len(inp)):
 		if inp[col]==1:
-			result[0]=result[0]+2**col
+			result=result+2**col
 	return(result)
