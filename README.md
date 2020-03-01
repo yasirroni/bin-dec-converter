@@ -3,4 +3,5 @@ This code is inspired from MATLAB code and can be used to generate matrix of bin
 
 ## Authors
 * **Muhammad Yasirroni** - [yasirroni](https://github.com/yasirroni)
+
 See also the list of [contributors](https://github.com/yasirroni/bin-dec-converter/graphs/contributors) who participated in this project.
